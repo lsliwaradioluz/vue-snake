@@ -10,7 +10,7 @@ This game was created to resemble an old-school Nokia Snake Game that we all rem
   * if you want to make a quick, ninety degree turn (by pressing for example arrow up and left) - do not press them simultanously! There must be a small break between pressing these two keys to make it work. That's the hardest part and that's what this game is all about - fast fingers :) 
 
 # Screenshots
-![screenshot](https://github.com/lsliwaradioluz/lsliwaradioluz.github.io/blob/master/assets/screen-portfolio.jpg)
+![screenshot](https://github.com/lsliwaradioluz/vue-snake/blob/gh-pages/snake-screenshot.jpg)
 
 # Technologies 
   * HTML5
